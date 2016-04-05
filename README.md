@@ -1,2 +1,2 @@
 # CourseraDS
-for data science mood
+for data science mooc
